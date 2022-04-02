@@ -1,0 +1,35 @@
+*{
+    font-family: Montserrat;
+}
+.navbar{
+    background: #0f2160;
+    box-shadow:#0f2160;
+}
+.navbar .container-fluid{
+    padding: 0 8px;
+}
+.nav-link{
+    color:white;
+}
+.navbar .form-inline{
+    margin:auto;
+}
+.form-inline input{
+    width:250px;
+    border-color: none;
+    border-radius: 5px;
+    border-color: transparent;
+}
+.navbar .container-fluid .deconnex{
+    text-decoration: none;
+    width: 100px;
+    background-color: rgba(226, 41, 41, 0.898);
+    border-radius: 2px;
+    color: white;  
+}
+.navbar .container-fluid .deconnex h5{
+    font-size: 12px;
+    margin: auto;
+    text-align: center;
+    padding: 5px;
+}
